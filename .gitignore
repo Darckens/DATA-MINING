@@ -1,0 +1,5 @@
+# Virtual environments
+.ipynb_checkpoints/
+
+# Other files
+*.html
